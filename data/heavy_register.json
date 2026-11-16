@@ -1,0 +1,2117 @@
+[
+  {
+    "equip_no": "7",
+    "unit": "B10",
+    "category": "Skid Steer",
+    "description": "Bobcat 463",
+    "model_notes": "520011369",
+    "status": "Available",
+    "serial": "520011369"
+  },
+  {
+    "equip_no": "9",
+    "unit": "B11",
+    "category": "Skid Steer",
+    "description": "463 Bobcat",
+    "model_notes": "520011431",
+    "status": "Available",
+    "serial": "520011431"
+  },
+  {
+    "equip_no": "115",
+    "unit": "B12",
+    "category": "Skid Steer",
+    "description": "Bobcat MT52 Walk Behind",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "528711410"
+  },
+  {
+    "equip_no": "144",
+    "unit": "B13",
+    "category": "Skid Steer",
+    "description": "60XT Case Skidsteer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "JAF410148"
+  },
+  {
+    "equip_no": "214",
+    "unit": "B14",
+    "category": "Skid Steer",
+    "description": "S220 Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "530711599"
+  },
+  {
+    "equip_no": "218",
+    "unit": "B15",
+    "category": "Skid Steer",
+    "description": "S220 Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "530711597"
+  },
+  {
+    "equip_no": "219",
+    "unit": "B16",
+    "category": "Skid Steer",
+    "description": "S220 Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "530711603"
+  },
+  {
+    "equip_no": "249",
+    "unit": "B17",
+    "category": "Skid Steer",
+    "description": "S150 Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "529711438"
+  },
+  {
+    "equip_no": "274",
+    "unit": "B18",
+    "category": "Skid Steer",
+    "description": "TL230 Takeuchi Trackloader",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "223100183"
+  },
+  {
+    "equip_no": "277",
+    "unit": "B19",
+    "category": "Skid Steer",
+    "description": "323J Mini Excavator",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "562413905"
+  },
+  {
+    "equip_no": "292",
+    "unit": "B20",
+    "category": "Skid Steer",
+    "description": "Bobcat MT52 Walk Behind",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "528711341"
+  },
+  {
+    "equip_no": "443",
+    "unit": "B21",
+    "category": "Skid Steer",
+    "description": "CAT 289C",
+    "model_notes": "2011",
+    "status": "Available",
+    "serial": "CHJMP01954"
+  },
+  {
+    "equip_no": "446",
+    "unit": "B22",
+    "category": "Skid Steer",
+    "description": "E32 Mini-Excavator Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A94H13451"
+  },
+  {
+    "equip_no": "454",
+    "unit": "B23",
+    "category": "Skid Steer",
+    "description": "E42 Mini-Excavator Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "AG3412324"
+  },
+  {
+    "equip_no": "521",
+    "unit": "B24",
+    "category": "Skid Steer",
+    "description": "S150 Bobcat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A3L121015"
+  },
+  {
+    "equip_no": "531",
+    "unit": "B25",
+    "category": "Skid Steer",
+    "description": "S150 Bobcat (2005)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5269170396"
+  },
+  {
+    "equip_no": "566",
+    "unit": "B26",
+    "category": "Skid Steer",
+    "description": "E32 Bobcat Mini Ex",
+    "model_notes": "Stock # F009938",
+    "status": "Available",
+    "serial": "AUYJ11109"
+  },
+  {
+    "equip_no": "594",
+    "unit": "B27",
+    "category": "Skid Steer",
+    "description": "150 Bobcat (2006)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "529712414"
+  },
+  {
+    "equip_no": "601",
+    "unit": "B28",
+    "category": "Skid Steer",
+    "description": "S150 Bobcat (2012)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A3L137532"
+  },
+  {
+    "equip_no": "615",
+    "unit": "B29",
+    "category": "Skid Steer",
+    "description": "TL230 Takeuchi Trackloader",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "223100882"
+  },
+  {
+    "equip_no": "668",
+    "unit": "B31",
+    "category": "Skid Steer",
+    "description": "E35 Mini Ex (2016)",
+    "model_notes": "E35I T4",
+    "status": "Available",
+    "serial": "AUYM13808"
+  },
+  {
+    "equip_no": "727",
+    "unit": "B33",
+    "category": "Skid Steer",
+    "description": "S150 Bobcat (3699)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "529713699"
+  },
+  {
+    "equip_no": "801",
+    "unit": "B34",
+    "category": "Skid Steer",
+    "description": "S250 Bobcat (1317)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "526013317"
+  },
+  {
+    "equip_no": "822",
+    "unit": "B35",
+    "category": "Skid Steer",
+    "description": "Walk Behind Bobcat MT55 2407",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A3WT12407"
+  },
+  {
+    "equip_no": "861",
+    "unit": "B36",
+    "category": "Skid Steer",
+    "description": "MT55 Walk Behind Bobcat 3829",
+    "model_notes": "came with BK161",
+    "status": "Available",
+    "serial": "B38T13829"
+  },
+  {
+    "equip_no": "944",
+    "unit": "B37",
+    "category": "Skid Steer",
+    "description": "Bobcat T250 Trackloader 5466",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "CPT15466"
+  },
+  {
+    "equip_no": "956",
+    "unit": "B38",
+    "category": "Skid Steer",
+    "description": "Bobcat MT55 Walk Behind (1838)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "538711838"
+  },
+  {
+    "equip_no": "959",
+    "unit": "B39",
+    "category": "Skid Steer",
+    "description": "2014 Bobcat Toolcat (4222)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A94Y14222"
+  },
+  {
+    "equip_no": "116",
+    "unit": "",
+    "category": "Skid Steer",
+    "description": "Tommy's Case",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "47",
+    "unit": "J01",
+    "category": "Backhoe",
+    "description": "330B John Deere",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "341791925104"
+  },
+  {
+    "equip_no": "26",
+    "unit": "J06",
+    "category": "Backhoe",
+    "description": "310SE John Deere",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "T0310SE847392"
+  },
+  {
+    "equip_no": "28",
+    "unit": "J08",
+    "category": "Backhoe",
+    "description": "410E John Deere",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "T0410EX879587"
+  },
+  {
+    "equip_no": "104",
+    "unit": "J09",
+    "category": "Backhoe",
+    "description": "300LDR John Deere",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "48",
+    "unit": "J12",
+    "category": "Backhoe",
+    "description": "310SG John Deere",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "T0310SG899366"
+  },
+  {
+    "equip_no": "17",
+    "unit": "C03",
+    "category": "Hilift",
+    "description": "977 Cat Hilift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "11K5070"
+  },
+  {
+    "equip_no": "20",
+    "unit": "C06",
+    "category": "Hilift",
+    "description": "963B Cat Hilift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "9BL02530"
+  },
+  {
+    "equip_no": "22",
+    "unit": "C08",
+    "category": "Hilift",
+    "description": "963B Cat Hilift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "9BL02478"
+  },
+  {
+    "equip_no": "152",
+    "unit": "C10",
+    "category": "Hilift",
+    "description": "963C 1369",
+    "model_notes": "BBD01369",
+    "status": "Available",
+    "serial": "BBD01369"
+  },
+  {
+    "equip_no": "285",
+    "unit": "C11",
+    "category": "Hilift",
+    "description": "Volvo Payloader",
+    "model_notes": "Model L120E",
+    "status": "Available",
+    "serial": "L120EV64664"
+  },
+  {
+    "equip_no": "302",
+    "unit": "C12",
+    "category": "Hilift",
+    "description": "963C Cat",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "CUBBD00764"
+  },
+  {
+    "equip_no": "320",
+    "unit": "C13",
+    "category": "Hilift",
+    "description": "953C Cat 2005",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "BBX01424"
+  },
+  {
+    "equip_no": "349",
+    "unit": "C14",
+    "category": "Hilift",
+    "description": "963C Cat 2004 Hilift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "CAT0963CCBBD01078"
+  },
+  {
+    "equip_no": "467",
+    "unit": "C15",
+    "category": "Hilift",
+    "description": "963B",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "9BL02854"
+  },
+  {
+    "equip_no": "480",
+    "unit": "C16",
+    "category": "Hilift",
+    "description": "963C Cat",
+    "model_notes": "BMA25179",
+    "status": "Available",
+    "serial": "BBD02137"
+  },
+  {
+    "equip_no": "524",
+    "unit": "C18",
+    "category": "Hilift",
+    "description": "953C Hilift 2802",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "BBX02802"
+  },
+  {
+    "equip_no": "525",
+    "unit": "C19",
+    "category": "Hilift",
+    "description": "963C Hilift 2983",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "CAT0963CVBBD02983"
+  },
+  {
+    "equip_no": "642",
+    "unit": "C21",
+    "category": "Hilift",
+    "description": "Cat 953C Hilift (2023)",
+    "model_notes": "2005 model year",
+    "status": "Available",
+    "serial": "EBBX02023"
+  },
+  {
+    "equip_no": "789",
+    "unit": "BK141",
+    "category": "Trackhoe",
+    "description": "Trackhoe JRB Slide Loc Coupler",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "24",
+    "unit": "J10",
+    "category": "Trackhoe",
+    "description": "8400 John Deere",
+    "model_notes": "Farm Tractor",
+    "status": "Available",
+    "serial": "RW8400P013291"
+  },
+  {
+    "equip_no": "32",
+    "unit": "K05",
+    "category": "Trackhoe",
+    "description": "PC220 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A85010"
+  },
+  {
+    "equip_no": "33",
+    "unit": "K06",
+    "category": "Trackhoe",
+    "description": "PC300LC-6 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A84401"
+  },
+  {
+    "equip_no": "35",
+    "unit": "K08",
+    "category": "Trackhoe",
+    "description": "300LC7 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A85019"
+  },
+  {
+    "equip_no": "36",
+    "unit": "K09",
+    "category": "Trackhoe",
+    "description": "300LC7 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A85147"
+  },
+  {
+    "equip_no": "280",
+    "unit": "K17",
+    "category": "Trackhoe",
+    "description": "300-HD-7EO Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A86034"
+  },
+  {
+    "equip_no": "334",
+    "unit": "K20",
+    "category": "Trackhoe",
+    "description": "PC228 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "32709"
+  },
+  {
+    "equip_no": "450",
+    "unit": "K22",
+    "category": "Trackhoe",
+    "description": "PC220LC-8 Komatsu",
+    "model_notes": "Make: KM11217",
+    "status": "Available",
+    "serial": "A89072"
+  },
+  {
+    "equip_no": "452",
+    "unit": "K23",
+    "category": "Trackhoe",
+    "description": "PC350LL Komatsu (Hi Cab)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A50005"
+  },
+  {
+    "equip_no": "472",
+    "unit": "K24",
+    "category": "Trackhoe",
+    "description": "Komatsu PC350LC-8",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A10592"
+  },
+  {
+    "equip_no": "516",
+    "unit": "K25",
+    "category": "Trackhoe",
+    "description": "Komatsu PC450LC 8",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "SNA10096"
+  },
+  {
+    "equip_no": "515",
+    "unit": "K26",
+    "category": "Trackhoe",
+    "description": "Volvo EC460CHR",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "190021"
+  },
+  {
+    "equip_no": "559",
+    "unit": "K29",
+    "category": "Trackhoe",
+    "description": "PC360LC-10",
+    "model_notes": "ID # KM14078",
+    "status": "Available",
+    "serial": "A33132"
+  },
+  {
+    "equip_no": "588",
+    "unit": "K31",
+    "category": "Trackhoe",
+    "description": "Komatsu PC138",
+    "model_notes": "came with BK107",
+    "status": "Available",
+    "serial": "40571"
+  },
+  {
+    "equip_no": "608",
+    "unit": "K32",
+    "category": "Trackhoe",
+    "description": "PC400LC Trackhoe",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A86368"
+  },
+  {
+    "equip_no": "626",
+    "unit": "K33",
+    "category": "Trackhoe",
+    "description": "PC220LC Trackhoe",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A86853"
+  },
+  {
+    "equip_no": "631",
+    "unit": "K34",
+    "category": "Trackhoe",
+    "description": "Hitachi 1200 Trackhoe",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "HCM18J00V00001225"
+  },
+  {
+    "equip_no": "634",
+    "unit": "K35",
+    "category": "Trackhoe",
+    "description": "PC220 Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A86853"
+  },
+  {
+    "equip_no": "650",
+    "unit": "K36",
+    "category": "Trackhoe",
+    "description": "PC308 Trackhoe",
+    "model_notes": "model PC308USLC-3E0",
+    "status": "Available",
+    "serial": "30429"
+  },
+  {
+    "equip_no": "672",
+    "unit": "K37",
+    "category": "Trackhoe",
+    "description": "PC490LC Komatsu Trackhoe",
+    "model_notes": "model year 2017",
+    "status": "Available",
+    "serial": "A41285"
+  },
+  {
+    "equip_no": "791",
+    "unit": "K40",
+    "category": "Trackhoe",
+    "description": "PC360 Trackhoe (6912)",
+    "model_notes": "PC360LC-11",
+    "status": "Available",
+    "serial": "A36912"
+  },
+  {
+    "equip_no": "829",
+    "unit": "K42",
+    "category": "Trackhoe",
+    "description": "PC220 (8925)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A88925"
+  },
+  {
+    "equip_no": "862",
+    "unit": "K43",
+    "category": "Trackhoe",
+    "description": "Volvo EC60E (1301)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "C60E311301"
+  },
+  {
+    "equip_no": "884",
+    "unit": "K44",
+    "category": "Trackhoe",
+    "description": "Volvo EC60E (5732)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "VCEEC60ET00315732"
+  },
+  {
+    "equip_no": "922",
+    "unit": "K45",
+    "category": "Trackhoe",
+    "description": "PC138 Trackhoe (9988)",
+    "model_notes": "KM2021823",
+    "status": "Available",
+    "serial": "59988"
+  },
+  {
+    "equip_no": "943",
+    "unit": "K46",
+    "category": "Trackhoe",
+    "description": "PC360LC-11 (9279)",
+    "model_notes": "KM2022579",
+    "status": "Available",
+    "serial": "A39279"
+  },
+  {
+    "equip_no": "978",
+    "unit": "K47",
+    "category": "Trackhoe",
+    "description": "PC490 (1937)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "41937"
+  },
+  {
+    "equip_no": "979",
+    "unit": "K48",
+    "category": "Trackhoe",
+    "description": "PC490 (5114)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "85114"
+  },
+  {
+    "equip_no": "980",
+    "unit": "K49",
+    "category": "Trackhoe",
+    "description": "PC490 (2779)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A42779"
+  },
+  {
+    "equip_no": "1000",
+    "unit": "K50",
+    "category": "Trackhoe",
+    "description": "PC360 Trackhoe (7082)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "KMTPC256CJWA37082"
+  },
+  {
+    "equip_no": "1002",
+    "unit": "K51",
+    "category": "Trackhoe",
+    "description": "PC490 Trackhoe (3845)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A43845"
+  },
+  {
+    "equip_no": "576",
+    "unit": "D32",
+    "category": "Tandem",
+    "description": "2006 Peterbilt Dump Truck",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "2NPLLZ0X36M884557"
+  },
+  {
+    "equip_no": "908",
+    "unit": "D33",
+    "category": "Tandem",
+    "description": "Peterbilt Dump Truck 5197",
+    "model_notes": "2005 Peterbilt",
+    "status": "Available",
+    "serial": "2NPLHZ8X35M875197"
+  },
+  {
+    "equip_no": "617",
+    "unit": "RT19",
+    "category": "Tandem",
+    "description": "2006 Dump Truck Kenworth T800",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "3BKDLB0X16F140480"
+  },
+  {
+    "equip_no": "970",
+    "unit": "J13",
+    "category": "Tractor",
+    "description": "John Deere Scraper Tractor (0097)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "RW9520E030097"
+  },
+  {
+    "equip_no": "72",
+    "unit": "RT07",
+    "category": "Tractor",
+    "description": "00 Mack Tractor",
+    "model_notes": "P346912",
+    "status": "Available",
+    "serial": "1M2AD62Y1YW009700"
+  },
+  {
+    "equip_no": "177",
+    "unit": "RT09",
+    "category": "Tractor",
+    "description": "99 Kenworth T800 ACI",
+    "model_notes": "P559936",
+    "status": "Out of Service",
+    "serial": "1NKDLU9X8XR816412"
+  },
+  {
+    "equip_no": "330",
+    "unit": "RT15",
+    "category": "Tractor",
+    "description": "06 Peterbilt 379",
+    "model_notes": "P691742",
+    "status": "Available",
+    "serial": "1XP5DU9X06D889576"
+  },
+  {
+    "equip_no": "483",
+    "unit": "RT16",
+    "category": "Tractor",
+    "description": "1998 Peterbilt",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1XP5P6EX6WN455780"
+  },
+  {
+    "equip_no": "569",
+    "unit": "RT18",
+    "category": "Tractor",
+    "description": "2006 Peterbilt 379",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1XP5DB9X56N642181"
+  },
+  {
+    "equip_no": "629",
+    "unit": "RT20",
+    "category": "Tractor",
+    "description": "06 Tractor Trailer Kenworth (2352)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1XKDDT9X96R132352"
+  },
+  {
+    "equip_no": "630",
+    "unit": "RT21",
+    "category": "Tractor",
+    "description": "06 Winch Kenworth (2351)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1XKDDT9X76R132351"
+  },
+  {
+    "equip_no": "792",
+    "unit": "RT23",
+    "category": "Tractor",
+    "description": "2019 Peterbilt (5525)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1XPCDP9X2KD615525"
+  },
+  {
+    "equip_no": "878",
+    "unit": "RT24",
+    "category": "Tractor",
+    "description": "Tractor Trailer (6708)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "2XKDDB0X16M156708"
+  },
+  {
+    "equip_no": "921",
+    "unit": "RT25",
+    "category": "Tractor",
+    "description": "2007 Peterbilt (0726)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1NPALUEX47N680726"
+  },
+  {
+    "equip_no": "957",
+    "unit": "RT26",
+    "category": "Tractor",
+    "description": "2024 Peterbilt 389 (6891)",
+    "model_notes": "P1228064",
+    "status": "Available",
+    "serial": "1XPXDP9X3RD686891"
+  },
+  {
+    "equip_no": "254",
+    "unit": "RO53",
+    "category": "Rolloff",
+    "description": "Mack Roll Off",
+    "model_notes": "P760643",
+    "status": "Available",
+    "serial": "1M2P267C81M056690"
+  },
+  {
+    "equip_no": "445",
+    "unit": "RO54",
+    "category": "Rolloff",
+    "description": "Mack Roll Off",
+    "model_notes": "P750917",
+    "status": "Available",
+    "serial": "1M2P267C1YM054838"
+  },
+  {
+    "equip_no": "499",
+    "unit": "RO56",
+    "category": "Rolloff",
+    "description": "2013 Kenworth Roll Off",
+    "model_notes": "P822941",
+    "status": "Available",
+    "serial": "1NKDL40X4DJ367608"
+  },
+  {
+    "equip_no": "623",
+    "unit": "RO57",
+    "category": "Rolloff",
+    "description": "2016 Peterbilt",
+    "model_notes": "P898630",
+    "status": "Available",
+    "serial": "1NPCL40XGD359872"
+  },
+  {
+    "equip_no": "667",
+    "unit": "RO59",
+    "category": "Rolloff",
+    "description": "2004 Kenworth",
+    "model_notes": "P943457",
+    "status": "Available",
+    "serial": "1NKDXBTX24J060815"
+  },
+  {
+    "equip_no": "767",
+    "unit": "RO61",
+    "category": "Rolloff",
+    "description": "2018 Peterbilt (5255)",
+    "model_notes": "348 model",
+    "status": "Available",
+    "serial": "2NP3LJ0X4JM465255"
+  },
+  {
+    "equip_no": "821",
+    "unit": "RO62",
+    "category": "Rolloff",
+    "description": "Kenworth 2010 Rolloff 6079",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1NKDXUTX7BJ286079"
+  },
+  {
+    "equip_no": "938",
+    "unit": "RO63",
+    "category": "Rolloff",
+    "description": "2023 Peterbilt (9672)",
+    "model_notes": "P1274613",
+    "status": "Available",
+    "serial": "2NP8LJ0XXPM879672"
+  },
+  {
+    "equip_no": "995",
+    "unit": "RO64",
+    "category": "Rolloff",
+    "description": "2025 Peterbilt 548 Rolloff (4601)",
+    "model_notes": "P1284890",
+    "status": "Available",
+    "serial": "2NP8LJ0X6SM714601"
+  },
+  {
+    "equip_no": "132",
+    "unit": "M36",
+    "category": "Trailer",
+    "description": "Arrow Board Trailer Amida",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "9801-45564"
+  },
+  {
+    "equip_no": "133",
+    "unit": "M37",
+    "category": "Trailer",
+    "description": "Arrow Board Trailer Wanco",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5F11S101911000005"
+  },
+  {
+    "equip_no": "85",
+    "unit": "T03",
+    "category": "Trailer",
+    "description": "Shien Dump Trailer",
+    "model_notes": "128554 ST",
+    "status": "Available",
+    "serial": "109240SD4G1001079"
+  },
+  {
+    "equip_no": "86",
+    "unit": "T04",
+    "category": "Trailer",
+    "description": "89 MCCL Transfer Trailer",
+    "model_notes": "",
+    "status": "Out of Service",
+    "serial": "1M9BD4524K2309053"
+  },
+  {
+    "equip_no": "87",
+    "unit": "T05",
+    "category": "Trailer",
+    "description": "Clement Rolloff Trailer",
+    "model_notes": "605991 ST",
+    "status": "Available",
+    "serial": "1C9EB36BZM110077"
+  },
+  {
+    "equip_no": "91",
+    "unit": "T09",
+    "category": "Trailer",
+    "description": "66 Fruehauf Dump Trailer",
+    "model_notes": "39168 ST",
+    "status": "Available",
+    "serial": "FWF468805"
+  },
+  {
+    "equip_no": "78",
+    "unit": "T12",
+    "category": "Trailer",
+    "description": "Rolloff Trailer 74 Transcraft",
+    "model_notes": "PH1017",
+    "status": "Available",
+    "serial": "TC7221"
+  },
+  {
+    "equip_no": "79",
+    "unit": "T13",
+    "category": "Trailer",
+    "description": "94 Borco Dump Trailer",
+    "model_notes": "",
+    "status": "Out of Service",
+    "serial": "1B9D53324SP313001"
+  },
+  {
+    "equip_no": "80",
+    "unit": "T14",
+    "category": "Trailer",
+    "description": "Tanker Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "81",
+    "unit": "T15",
+    "category": "Trailer",
+    "description": "36 Aluminum Dump Trailer",
+    "model_notes": "",
+    "status": "Out of Service",
+    "serial": ""
+  },
+  {
+    "equip_no": "82",
+    "unit": "T16",
+    "category": "Trailer",
+    "description": "01 Dierzen Dump Trailer",
+    "model_notes": "947019 ST",
+    "status": "Available",
+    "serial": "1D9132721Z1059207"
+  },
+  {
+    "equip_no": "83",
+    "unit": "T17",
+    "category": "Trailer",
+    "description": "Const. Trailer Special",
+    "model_notes": "206074 ST",
+    "status": "Available",
+    "serial": "1C93428252S770800"
+  },
+  {
+    "equip_no": "128",
+    "unit": "T18",
+    "category": "Trailer",
+    "description": "Etnyre Trailer PRTN55TD3",
+    "model_notes": "264921 ST",
+    "status": "Available",
+    "serial": "1E92829243E111126"
+  },
+  {
+    "equip_no": "168",
+    "unit": "T20",
+    "category": "Trailer",
+    "description": "05 Doolittle Bobcat Trlr",
+    "model_notes": "61823 TE",
+    "status": "Available",
+    "serial": "1DGRS18245M064030"
+  },
+  {
+    "equip_no": "169",
+    "unit": "T21",
+    "category": "Trailer",
+    "description": "Alberici 1",
+    "model_notes": "310899 ST",
+    "status": "Available",
+    "serial": "no tag"
+  },
+  {
+    "equip_no": "182",
+    "unit": "T22",
+    "category": "Trailer",
+    "description": "Alberici 2",
+    "model_notes": "310896 ST",
+    "status": "Available",
+    "serial": "no tag"
+  },
+  {
+    "equip_no": "197",
+    "unit": "T25",
+    "category": "Trailer",
+    "description": "87 East Tandem",
+    "model_notes": "298547 ST",
+    "status": "Available",
+    "serial": "1E1P1W281HRB07606"
+  },
+  {
+    "equip_no": "201",
+    "unit": "T27",
+    "category": "Trailer",
+    "description": "94 East",
+    "model_notes": "298541 ST",
+    "status": "Available",
+    "serial": "1E1U1X281RRJ15339"
+  },
+  {
+    "equip_no": "204",
+    "unit": "T30",
+    "category": "Trailer",
+    "description": "94 East",
+    "model_notes": "298542 ST",
+    "status": "Available",
+    "serial": "1E1U1X282RRF17194"
+  },
+  {
+    "equip_no": "205",
+    "unit": "T31",
+    "category": "Trailer",
+    "description": "87 Steco WM 700124",
+    "model_notes": "278595 ST",
+    "status": "Available",
+    "serial": "1S9WCRZT4H1007378"
+  },
+  {
+    "equip_no": "260",
+    "unit": "T32",
+    "category": "Trailer",
+    "description": "89 East",
+    "model_notes": "298543 ST",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "261",
+    "unit": "T33",
+    "category": "Trailer",
+    "description": "95 East",
+    "model_notes": "298544 ST",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "262",
+    "unit": "T34",
+    "category": "Trailer",
+    "description": "87 Steco",
+    "model_notes": "298545 ST",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "263",
+    "unit": "T35",
+    "category": "Trailer",
+    "description": "92 East",
+    "model_notes": "298546 ST",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "267",
+    "unit": "T39",
+    "category": "Trailer",
+    "description": "Semi Trailer",
+    "model_notes": "298490 ST",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "136",
+    "unit": "T40",
+    "category": "Trailer",
+    "description": "Furlow",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1C934282565S770793"
+  },
+  {
+    "equip_no": "208",
+    "unit": "T41",
+    "category": "Trailer",
+    "description": "Furlow",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1C93428296S770921"
+  },
+  {
+    "equip_no": "209",
+    "unit": "T42",
+    "category": "Trailer",
+    "description": "Furlow",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1C934282X6S770958"
+  },
+  {
+    "equip_no": "210",
+    "unit": "T43",
+    "category": "Trailer",
+    "description": "06 RM End Dump",
+    "model_notes": "296522 ST",
+    "status": "Available",
+    "serial": "1C93428226S770999"
+  },
+  {
+    "equip_no": "268",
+    "unit": "T44",
+    "category": "Trailer",
+    "description": "Alberici Dump",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "269",
+    "unit": "T45",
+    "category": "Trailer",
+    "description": "Alberici Dump",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "270",
+    "unit": "T46",
+    "category": "Trailer",
+    "description": "94 East",
+    "model_notes": "310851 ST",
+    "status": "Available",
+    "serial": "1E1U1X28XRRJ15338"
+  },
+  {
+    "equip_no": "298",
+    "unit": "T47",
+    "category": "Trailer",
+    "description": "06 Changzhou Little Trlr",
+    "model_notes": "Model 94564",
+    "status": "Available",
+    "serial": "LN2UT08116G002767"
+  },
+  {
+    "equip_no": "299",
+    "unit": "T48",
+    "category": "Trailer",
+    "description": "07 Utility Nontilt Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "4JMUN131471024182"
+  },
+  {
+    "equip_no": "457",
+    "unit": "T49",
+    "category": "Trailer",
+    "description": "01 Dierzen Semi Trailer",
+    "model_notes": "433672 ST",
+    "status": "Available",
+    "serial": "1D913271Z1059401"
+  },
+  {
+    "equip_no": "336",
+    "unit": "T50",
+    "category": "Trailer",
+    "description": "Schien Trailer Model 34A0",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1S90A34224182342"
+  },
+  {
+    "equip_no": "466",
+    "unit": "T51",
+    "category": "Trailer",
+    "description": "Great Lake Pup Trlr",
+    "model_notes": "450990 ST",
+    "status": "Available",
+    "serial": "1G9CD2429YS139012"
+  },
+  {
+    "equip_no": "458",
+    "unit": "T52",
+    "category": "Trailer",
+    "description": "07 Travis Semi Trailer",
+    "model_notes": "433671 ST",
+    "status": "Available",
+    "serial": "48X1F392271004595"
+  },
+  {
+    "equip_no": "459",
+    "unit": "T53",
+    "category": "Trailer",
+    "description": "02 LMC Semi Trailer",
+    "model_notes": "433673 ST",
+    "status": "Available",
+    "serial": "1L9CA26232M212329"
+  },
+  {
+    "equip_no": "470",
+    "unit": "T55",
+    "category": "Trailer",
+    "description": "06 Cronkite Trlr Flatbed",
+    "model_notes": "85905 TD",
+    "status": "Available",
+    "serial": "47329242261000282"
+  },
+  {
+    "equip_no": "482",
+    "unit": "T56",
+    "category": "Trailer",
+    "description": "Trail King w/ Hyd Tail",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TKA048218M093433"
+  },
+  {
+    "equip_no": "484",
+    "unit": "T57",
+    "category": "Trailer",
+    "description": "Trail King Drop Side",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TKJ05338XM074768"
+  },
+  {
+    "equip_no": "518",
+    "unit": "T57A",
+    "category": "Trailer",
+    "description": "T King Booster 2013",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TKR00511DM098942"
+  },
+  {
+    "equip_no": "107",
+    "unit": "T60",
+    "category": "Trailer",
+    "description": "Big Tex Gooseneck Trailer",
+    "model_notes": "1998",
+    "status": "Available",
+    "serial": "4K8GX2429W1631473"
+  },
+  {
+    "equip_no": "577",
+    "unit": "T60",
+    "category": "Trailer",
+    "description": "Do not use Big Tex Gooseneck Trailer",
+    "model_notes": "1998 24' trailer",
+    "status": "Out of Service",
+    "serial": "4K8GX2429W1631473"
+  },
+  {
+    "equip_no": "526",
+    "unit": "T61",
+    "category": "Trailer",
+    "description": "Boat Trailer",
+    "model_notes": "499-387",
+    "status": "Available",
+    "serial": "UTT12160"
+  },
+  {
+    "equip_no": "529",
+    "unit": "T62",
+    "category": "Trailer",
+    "description": "RM T/A End Dump Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5TU3440218S000060"
+  },
+  {
+    "equip_no": "583",
+    "unit": "T63",
+    "category": "Trailer",
+    "description": "2004 Sport Utility Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5APCN14254L003034"
+  },
+  {
+    "equip_no": "605",
+    "unit": "T64",
+    "category": "Trailer",
+    "description": "Trail King Low Boy 2012",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TKJ05332CM047088"
+  },
+  {
+    "equip_no": "641",
+    "unit": "T65",
+    "category": "Trailer",
+    "description": "MGS 16' Generator Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "16MPF15222D02756"
+  },
+  {
+    "equip_no": "654",
+    "unit": "T66",
+    "category": "Trailer",
+    "description": "2004 Brooks Bros Equip Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1B9TS162X4M274253"
+  },
+  {
+    "equip_no": "671",
+    "unit": "T67",
+    "category": "Trailer",
+    "description": "2016 EBY Equipment Trailer",
+    "model_notes": "model BHEQP102X24 6\"-51B",
+    "status": "Available",
+    "serial": "4A2MB2524G1017407"
+  },
+  {
+    "equip_no": "675",
+    "unit": "T68",
+    "category": "Trailer",
+    "description": "2001 McClain Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1M9BF482412309127"
+  },
+  {
+    "equip_no": "683",
+    "unit": "T69",
+    "category": "Trailer",
+    "description": "2007 Transcraft Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TTE5320271082487"
+  },
+  {
+    "equip_no": "729",
+    "unit": "T73",
+    "category": "Trailer",
+    "description": "Chassis King Trailer",
+    "model_notes": "635907 ST",
+    "status": "Available",
+    "serial": "1C9CK40225A681130"
+  },
+  {
+    "equip_no": "757",
+    "unit": "T74",
+    "category": "Trailer",
+    "description": "2006 Hill Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1TH3B6DK061022250"
+  },
+  {
+    "equip_no": "766",
+    "unit": "T76",
+    "category": "Trailer",
+    "description": "Fruehauf Trailer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "781",
+    "unit": "T77",
+    "category": "Trailer",
+    "description": "Benlee Rolloff Trailer (2125)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1B9D1482XVE182125"
+  },
+  {
+    "equip_no": "799",
+    "unit": "T78",
+    "category": "Trailer",
+    "description": "Tilt Trailer (7194)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "4L5ST2528KF047194"
+  },
+  {
+    "equip_no": "813",
+    "unit": "T79",
+    "category": "Trailer",
+    "description": "2011 Altorfer Trailer (Boat Trailer)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1A9BS2122BP450519"
+  },
+  {
+    "equip_no": "819",
+    "unit": "T80",
+    "category": "Trailer",
+    "description": "Towmaster End Dump (2923)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "4KNUT1621GL162923"
+  },
+  {
+    "equip_no": "826",
+    "unit": "T81",
+    "category": "Trailer",
+    "description": "Spec Tec Compactor Trailer",
+    "model_notes": "model SEC419096",
+    "status": "Available",
+    "serial": "1S9ES41297S188028"
+  },
+  {
+    "equip_no": "860",
+    "unit": "T82",
+    "category": "Trailer",
+    "description": "B.A.T. Rolloff Trailer (9L10)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1B9FB32204A439L10"
+  },
+  {
+    "equip_no": "872",
+    "unit": "T83",
+    "category": "Trailer",
+    "description": "Brocks Tanker Trailer (2343)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1B9CP13268B632343"
+  },
+  {
+    "equip_no": "902",
+    "unit": "T84",
+    "category": "Trailer",
+    "description": "Ditchwitch Flatbed (1082)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "7S1082"
+  },
+  {
+    "equip_no": "905",
+    "unit": "T85",
+    "category": "Trailer",
+    "description": "Benlee Rolloff Trailer",
+    "model_notes": "model TATBDS48F",
+    "status": "Available",
+    "serial": "1B9D14822NB180113"
+  },
+  {
+    "equip_no": "911",
+    "unit": "T86",
+    "category": "Trailer",
+    "description": "Interstate Tilt Trailer (1941)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1JKDL40CM011941"
+  },
+  {
+    "equip_no": "912",
+    "unit": "T87",
+    "category": "Trailer",
+    "description": "Benlee Rolloff Trailer (0312)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1B9A12629CB180312"
+  },
+  {
+    "equip_no": "914",
+    "unit": "T88",
+    "category": "Trailer",
+    "description": "Interstate Trailer (8057)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1JKGST1667M008057"
+  },
+  {
+    "equip_no": "923",
+    "unit": "T89",
+    "category": "Trailer",
+    "description": "Interstate Equipment Trailer (9247)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1JKDLA4008M009247"
+  },
+  {
+    "equip_no": "928",
+    "unit": "T90",
+    "category": "Trailer",
+    "description": "Towmaster Trailer (0338)",
+    "model_notes": "2015 T-14HD",
+    "status": "Available",
+    "serial": "4KNUT1420FL160338"
+  },
+  {
+    "equip_no": "931",
+    "unit": "T91",
+    "category": "Trailer",
+    "description": "16' Aluma Trailer (0144)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1YGUS1623PB260144"
+  },
+  {
+    "equip_no": "932",
+    "unit": "T92",
+    "category": "Trailer",
+    "description": "2023 Midsota Trailer (9211)",
+    "model_notes": "blue tilt bed",
+    "status": "Available",
+    "serial": "5JWBT2420PA109211"
+  },
+  {
+    "equip_no": "937",
+    "unit": "T93",
+    "category": "Trailer",
+    "description": "2012 Trail King (A533)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "TK110SA-533"
+  },
+  {
+    "equip_no": "977",
+    "unit": "T94",
+    "category": "Trailer",
+    "description": "2012 Centreville Equip Trailer (2612)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5JVGT1528C1002612"
+  },
+  {
+    "equip_no": "998",
+    "unit": "T95",
+    "category": "Trailer",
+    "description": "Load Trail 16' End Dump Trailer (8610)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "4ZEGD1621N3268610"
+  },
+  {
+    "equip_no": "145",
+    "unit": "K13",
+    "category": "Dozer",
+    "description": "D65 Dozer Komatsu",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "A30211"
+  },
+  {
+    "equip_no": "151",
+    "unit": "K15",
+    "category": "Dozer",
+    "description": "389 Dozer",
+    "model_notes": "TD25C (this is the model #)",
+    "status": "Available",
+    "serial": "252502868"
+  },
+  {
+    "equip_no": "159",
+    "unit": "K16",
+    "category": "Dozer",
+    "description": "International",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "313",
+    "unit": "K19",
+    "category": "Dozer",
+    "description": "D37PX-21A Komatsu Dozer",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5752"
+  },
+  {
+    "equip_no": "825",
+    "unit": "K41",
+    "category": "Dozer",
+    "description": "Komatsu Dozer (1194)",
+    "model_notes": "model D61PXi-24",
+    "status": "Available",
+    "serial": "41194"
+  },
+  {
+    "equip_no": "65",
+    "unit": "P05",
+    "category": "Passenger",
+    "description": "98 Chevy Pick Up",
+    "model_notes": "2509XY-B",
+    "status": "Out of Service",
+    "serial": "1GCGK24R8WZ274306"
+  },
+  {
+    "equip_no": "67",
+    "unit": "P08",
+    "category": "Passenger",
+    "description": "01 Ford (Roger)",
+    "model_notes": "116693D",
+    "status": "Available",
+    "serial": "1FTSW31F71ED82639"
+  },
+  {
+    "equip_no": "61",
+    "unit": "P10",
+    "category": "Passenger",
+    "description": "F350 4x4 (Teddy)",
+    "model_notes": "7838ZM-B",
+    "status": "Available",
+    "serial": "1FTSW31582ED03478"
+  },
+  {
+    "equip_no": "199",
+    "unit": "P16",
+    "category": "Passenger",
+    "description": "06 Sierra (Dan) GMC",
+    "model_notes": "1BSDT-B",
+    "status": "Out of Service",
+    "serial": "1GTHK23296F109973"
+  },
+  {
+    "equip_no": "256",
+    "unit": "P17",
+    "category": "Passenger",
+    "description": "86 Ford White",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FDPK84N7GVA3282"
+  },
+  {
+    "equip_no": "328",
+    "unit": "P24",
+    "category": "Passenger",
+    "description": "09 Silverado (yard)",
+    "model_notes": "1647269",
+    "status": "Available",
+    "serial": "1GCEC14X89Z191170"
+  },
+  {
+    "equip_no": "461",
+    "unit": "P25",
+    "category": "Passenger",
+    "description": "12 F350 (Patty)",
+    "model_notes": "1115680B",
+    "status": "Available",
+    "serial": "1FT8W3BT6CEA56073"
+  },
+  {
+    "equip_no": "477",
+    "unit": "P26",
+    "category": "Passenger",
+    "description": "12 Silverado (Bart)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1GB2CVCG3CZ337448"
+  },
+  {
+    "equip_no": "527",
+    "unit": "P27",
+    "category": "Passenger",
+    "description": "2013 GMC Terrain (Roger)",
+    "model_notes": "A746363",
+    "status": "Available",
+    "serial": "2GKALYEK4D6432094"
+  },
+  {
+    "equip_no": "572",
+    "unit": "P28",
+    "category": "Passenger",
+    "description": "2015 Ford SuperDuty (Ted)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FT8W3BT1FEA08520"
+  },
+  {
+    "equip_no": "607",
+    "unit": "P29",
+    "category": "Passenger",
+    "description": "GMC Sierra (2011)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1GT02ZCG8BF123780"
+  },
+  {
+    "equip_no": "632",
+    "unit": "P31",
+    "category": "Passenger",
+    "description": "2015 Chevy Silverado (Dan)",
+    "model_notes": "1749550B",
+    "status": "Available",
+    "serial": "1GCNCPEH4FZ445916"
+  },
+  {
+    "equip_no": "633",
+    "unit": "P32",
+    "category": "Passenger",
+    "description": "2015 Chevy Silverado (Roger)",
+    "model_notes": "1749549B",
+    "status": "Available",
+    "serial": "1GB0C4EG3FZ516155"
+  },
+  {
+    "equip_no": "774",
+    "unit": "P33",
+    "category": "Passenger",
+    "description": "Ford F350 (3806)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FT7X3BTXBEEB43806"
+  },
+  {
+    "equip_no": "796",
+    "unit": "P34",
+    "category": "Passenger",
+    "description": "2018 F150 Super Duty (Roger)",
+    "model_notes": "Silver",
+    "status": "Available",
+    "serial": "1FTEW1EP4JKD67909"
+  },
+  {
+    "equip_no": "802",
+    "unit": "P35",
+    "category": "Passenger",
+    "description": "2019 Ford Expedition Max (Patty)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FMJK2AT8KEA07671"
+  },
+  {
+    "equip_no": "831",
+    "unit": "P37",
+    "category": "Passenger",
+    "description": "Ford F250 (9737) Ryan",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FDBF2A6XBEA69737"
+  },
+  {
+    "equip_no": "842",
+    "unit": "P38",
+    "category": "Passenger",
+    "description": "Ford F250 (6383)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FDNF2B55AEB16383"
+  },
+  {
+    "equip_no": "854",
+    "unit": "P39",
+    "category": "Passenger",
+    "description": "2020 F550 (7902)",
+    "model_notes": "Andy's service truck",
+    "status": "Available",
+    "serial": "1FD0W5HT9LED97902"
+  },
+  {
+    "equip_no": "855",
+    "unit": "P40",
+    "category": "Passenger",
+    "description": "Humvee",
+    "model_notes": "1994 AM General M998A1 Humvee",
+    "status": "Available",
+    "serial": "155285"
+  },
+  {
+    "equip_no": "933",
+    "unit": "P43",
+    "category": "Passenger",
+    "description": "F450 Super Duty (5556) Ryan",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FDTF4GT7NDA25556"
+  },
+  {
+    "equip_no": "972",
+    "unit": "P44",
+    "category": "Passenger",
+    "description": "2024 Ford F450 (2876)",
+    "model_notes": "194729F",
+    "status": "Available",
+    "serial": "1FD9W4HTXREE32876"
+  },
+  {
+    "equip_no": "647",
+    "unit": "M145",
+    "category": "Service Truck",
+    "description": "Polaris Ranger Side by Side",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "4XARH50A3BB072931"
+  },
+  {
+    "equip_no": "73",
+    "unit": "S01",
+    "category": "Service Truck",
+    "description": "IHC S1900",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1HSLRUGN7FHA48353"
+  },
+  {
+    "equip_no": "663",
+    "unit": "S07",
+    "category": "Service Truck",
+    "description": "2002 Ford F450",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1FDXF46F32EC80904"
+  },
+  {
+    "equip_no": "736",
+    "unit": "S08",
+    "category": "Service Truck",
+    "description": "Peterbilt 337 Day Cab",
+    "model_notes": "P980242",
+    "status": "Available",
+    "serial": "2NP2HM7X2JM466134"
+  },
+  {
+    "equip_no": "765",
+    "unit": "S09",
+    "category": "Service Truck",
+    "description": "2012 Ram",
+    "model_notes": "5500ST",
+    "status": "Available",
+    "serial": "3C7WDNFL6CG230819"
+  },
+  {
+    "equip_no": "96",
+    "unit": "J11",
+    "category": "Forklift/Lift",
+    "description": "Skytrac",
+    "model_notes": "Model 8042",
+    "status": "Available",
+    "serial": "#11821"
+  },
+  {
+    "equip_no": "460",
+    "unit": "L02",
+    "category": "Forklift/Lift",
+    "description": "SkyJack Scissor Lift",
+    "model_notes": "Model: III 3219",
+    "status": "Available",
+    "serial": "224298"
+  },
+  {
+    "equip_no": "471",
+    "unit": "L03",
+    "category": "Forklift/Lift",
+    "description": "Genie GS-1930",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "1156"
+  },
+  {
+    "equip_no": "619",
+    "unit": "L05",
+    "category": "Forklift/Lift",
+    "description": "Telehandler Lift",
+    "model_notes": "JLG G12-55A",
+    "status": "Available",
+    "serial": "0160033867"
+  },
+  {
+    "equip_no": "808",
+    "unit": "L06",
+    "category": "Forklift/Lift",
+    "description": "Skyjack Scissor Lift",
+    "model_notes": "model SJ7127",
+    "status": "Available",
+    "serial": "343798R"
+  },
+  {
+    "equip_no": "883",
+    "unit": "L07",
+    "category": "Forklift/Lift",
+    "description": "Telescopic Boom Lift 0175",
+    "model_notes": "2016 Snorkel TB47J",
+    "status": "Available",
+    "serial": "TB47-04-00175"
+  },
+  {
+    "equip_no": "986",
+    "unit": "L08",
+    "category": "Forklift/Lift",
+    "description": "JLG Telescopic Boom Lift (7130)",
+    "model_notes": "model 1350SJP",
+    "status": "Available",
+    "serial": "0300147130"
+  },
+  {
+    "equip_no": "997",
+    "unit": "L09",
+    "category": "Forklift/Lift",
+    "description": "JLG 80S Telescopic Boom Lift (9819)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "0300129819"
+  },
+  {
+    "equip_no": "760",
+    "unit": "M187",
+    "category": "Forklift/Lift",
+    "description": "Mitsubishi Forklift (1213)",
+    "model_notes": "model FGC15",
+    "status": "Available",
+    "serial": "AF81E-51213"
+  },
+  {
+    "equip_no": "761",
+    "unit": "M188",
+    "category": "Forklift/Lift",
+    "description": "Mitsubishi Forklift (1214)",
+    "model_notes": "model FGC15",
+    "status": "Available",
+    "serial": "AF81E-51214"
+  },
+  {
+    "equip_no": "916",
+    "unit": "M242",
+    "category": "Forklift/Lift",
+    "description": "Toyota Forklift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "79466"
+  },
+  {
+    "equip_no": "134",
+    "unit": "M38",
+    "category": "Forklift/Lift",
+    "description": "Barrier Lift Kenco KL9000",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "SF107070904A8"
+  },
+  {
+    "equip_no": "142",
+    "unit": "M39",
+    "category": "Forklift/Lift",
+    "description": "Cat 8000# Forklift",
+    "model_notes": "",
+    "status": "Available",
+    "serial": ""
+  },
+  {
+    "equip_no": "224",
+    "unit": "M48",
+    "category": "Forklift/Lift",
+    "description": "Cat Forklift",
+    "model_notes": "Type G",
+    "status": "Available",
+    "serial": "5HD00126"
+  },
+  {
+    "equip_no": "225",
+    "unit": "M49",
+    "category": "Forklift/Lift",
+    "description": "Clark 25E GPX Forklift",
+    "model_notes": "Model: GPX 25E Type LP",
+    "status": "Available",
+    "serial": "GPX230E-1234-9367FB"
+  },
+  {
+    "equip_no": "227",
+    "unit": "M51",
+    "category": "Forklift/Lift",
+    "description": "Wheel Loader",
+    "model_notes": "John Deere",
+    "status": "Available",
+    "serial": "T60084X000077"
+  },
+  {
+    "equip_no": "327",
+    "unit": "M74",
+    "category": "Forklift/Lift",
+    "description": "TCM Forklift",
+    "model_notes": "Model: FHC36N9T",
+    "status": "Available",
+    "serial": "A13U00128"
+  },
+  {
+    "equip_no": "504",
+    "unit": "W14",
+    "category": "Water Equip",
+    "description": "99 Water Truck LT7500",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "FZNAJBB7XAF22748"
+  },
+  {
+    "equip_no": "581",
+    "unit": "W15",
+    "category": "Water Equip",
+    "description": "Hydrovac Truck",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "5KKHAEBG0DPBW8274"
+  },
+  {
+    "equip_no": "636",
+    "unit": "W22",
+    "category": "Water Equip",
+    "description": "Peterbilt Hydrovac Truck",
+    "model_notes": "P917570",
+    "status": "Available",
+    "serial": "1NPCLP0XXFD290462"
+  },
+  {
+    "equip_no": "286",
+    "unit": "A01",
+    "category": "Off Road Truck",
+    "description": "John Deere Off Road Truck",
+    "model_notes": "Model JD400D",
+    "status": "Available",
+    "serial": "BE400DT200514"
+  },
+  {
+    "equip_no": "655",
+    "unit": "A02",
+    "category": "Off Road Truck",
+    "description": "CAT 740 Off Road Truck",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "BIP03750"
+  },
+  {
+    "equip_no": "738",
+    "unit": "A03",
+    "category": "Off Road Truck",
+    "description": "1986 Kaiser XM818 T/A Day Cab",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "05E-67170-G124-12528"
+  },
+  {
+    "equip_no": "852",
+    "unit": "A04",
+    "category": "Off Road Truck",
+    "description": "Crawler Carrier (0880)",
+    "model_notes": "",
+    "status": "Available",
+    "serial": "CE000880"
+  }
+]
